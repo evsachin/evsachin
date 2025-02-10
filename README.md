@@ -23,7 +23,7 @@ Open to collaborating on **new project ideas** that deliver value.
 
 ### 📫 **Reach Me**  
 - **Email**: [sachin.kolhe.evisiontech@gmail.com](mailto:sachin.kolhe.evisiontech@gmail.com)  
-- **LinkedIn**: [Your LinkedIn](#) *(add link)*  
+- **LinkedIn**: [Your LinkedIn](#) *(https://www.linkedin.com/in/sachinkolhe1999/)*  
 
 ---
 

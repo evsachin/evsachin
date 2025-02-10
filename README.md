@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @evsachin
-- 👀 I’m interested in Building End to end User Products
-- 🌱 I’m currently learning End to end product Development, Product Devlopment Management
-- 💞️ I’m looking to collaborate on new project ides
-- 📫 How to reach me email : sachin.kolhe.evisiontech@gmai.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👋 Hi, I’m Sachin Kolhe (@evsachin)  
+Passionate about building **end-to-end user-centric products**.  
 
-<!---
-evsachin/evsachin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 👀 **Interests**  
+- End-to-end product development  
+- Solving real-world problems with tech  
+- Collaborating on innovative ideas  
+
+---
+
+### 🌱 **Currently Learning**  
+- Product development lifecycle  
+- Product management strategies  
+
+---
+
+### 💞️ **Looking to Collaborate**  
+Open to collaborating on **new project ideas** that deliver value.  
+
+---
+
+### 📫 **Reach Me**  
+- **Email**: [sachin.kolhe.evisiontech@gmail.com](mailto:sachin.kolhe.evisiontech@gmail.com)  
+- **LinkedIn**: [Your LinkedIn](#) *(add link)*  
+
+---
+
+### ⚡ **Fun Fact**  
+I believe the best products are born when technology meets empathy.  
